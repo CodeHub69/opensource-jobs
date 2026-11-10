@@ -1,3 +1,4 @@
 thanakorn.txt
 สวัสดี  
 1. My name is Thanakorn
+2. My lastname is Samofak.
