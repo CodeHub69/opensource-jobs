@@ -2,3 +2,4 @@ thanakorn.txt
 สวัสดี  
 1. My name is Thanakorn
 2. My lastname is Samofak.
+3. My email is thanakorn@kvc.ac.th.
