@@ -7,3 +7,4 @@ thanakorn.txt
 5. OK. very good.
 6. Good bye.
 7. Good morning students.
+8. Today is Thursday.
