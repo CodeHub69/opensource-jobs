@@ -6,3 +6,4 @@ thanakorn.txt
 4. My phone Number is 123456.
 5. OK. very good.
 6. Good bye.
+7. Good morning students.
